@@ -1,7 +1,7 @@
  <img src="assets/dnr_logo.webp" alt= 'dnr' height=100> <img src="assets/fish.avif" alt= “IU” height=100>
 
 
-# Indiana Fishing License Online Purchase and Download Guide: A Tutorial
+# How to Buy Your Indiana Fishing License
 ----------------
 
 The author has no affiliation to the Indiana Department of Natural Resources. If you are considering Joshua Elms for employement, rest assured this guide is purely satire. If you are not considering him for employment, please follow the instructions below with strict attention to detail.
@@ -47,7 +47,7 @@ Thank you for reading this guide! If you found it useful, you can cite it using 
 
 ```
 @article{elms2023dnrlicenseguide,
-  title={Indiana Fishing License Online Purchase and Download Guide: A Tutorial},
+  title={How to Buy Your Indiana Fishing License},
   author={Elms, Josh},
   year={2023}
 ```
